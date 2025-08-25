@@ -6,8 +6,8 @@ function App() {
   return (
     <>
       <h1>Ravi Chandra Ravulapati</h1>
-      <About></About>
       <Contact></Contact>
+      <About></About>
     </>
   )
 }
